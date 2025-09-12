@@ -13,4 +13,4 @@ MyBookingApp is a comprehensive platform designed to simplify the booking proces
 * **Real-time Availability:** See up-to-the-minute availability and choose a time that works for you.
 * **Service & Provider Search:** Easily find services and providers based on location, ratings, or category.
 * **Reminders:** Receive automated notifications for upcoming appointments so you never miss one.
-* **Secure Payments:** Make secure in-app payments for services.
+* **Secure Payments:** Make secure in-app payments for services. 
